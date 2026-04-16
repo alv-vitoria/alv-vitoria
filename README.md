@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Em%20Construção-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Em%20Formação-magenta?style=for-the-badge"/>
 </p>
 
 
@@ -67,12 +67,22 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  
 
 
-Outras informações sobre mim:
-- 🔭 Atualmente estou trabalhando em projetos práticos voltados para análise de dados, incluindo pipelines de ETL, automações em Python e aplicações que transformam dados em insights úteis.
-- 🌱 Estou sempre aprofundando meus conhecimentos em Python para dados, SQL, ETL, além de explorar APIs REST, JavaScript e ferramentas como Power BI para visualização.
-- 👯 Estou procurando colaborar projetos de análise de dados, engenharia de dados iniciante ou automações com Python, especialmente aqueles que resolvam problemas reais e gerem impacto.
-- 🤔 Busco ajuda para evoluir em boas práticas em projetos de dados, arquitetura de pipelines, consumo de APIs e como evoluir para um nível mais profissional na área de dados.
-- 💬 Pergunte me sobre Python, Pandas, projetos de ETL, aprendizado em tecnologia e minha jornada migrando e evoluindo na área de dados.
-- 😄 Pronomes: Ela/dela
-- ⚡ Curiosidade: Gosto de transformar problemas em soluções com código, e quanto mais complexo o desafio, mais interessante ele fica! 🚀
+## 🚀 O que estou fazendo
+- 🔭 Projetos práticos de dados com foco em ETL, automações em Python e geração de insights
 
+## 📚 O que estou estudando
+- 🌱 Python para dados, SQL e ETL
+- 🌐 Explorando ferramentas como Power BI para visualização.
+
+## 🤝 Colaboração
+- 👯 Aberta a projetos de análise de dados, melhorias de processos e automações com impacto real
+
+## 🎯 Evolução profissional
+- 🤔 Buscando evoluir em boas práticas, arquitetura de pipelines e consumo de APIs
+
+## 💬 Bora conversar
+- Python, Pandas, ETL e transição para área de dados
+
+## ✨ Extras
+- 😄 Pronomes: ela/dela  
+- ⚡ Curto desafios complexos e resolver problemas com código
