@@ -55,16 +55,21 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 [![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-Embaixadora-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)](https://www.dio.me/articles/dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0?utm_source=link&utm_campaign=mgm-dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0&utm_medium=article)   
   
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alv-vitoria&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alv-vitoria&layout=compact)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alv-vitoria)](https://github.com/anuraghazra/github-readme-stats)  
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alv-vitoria&show_icons=true&theme=tokyonight)
 
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alv-vitoria&layout=compact&theme=tokyonight)
+
+## ![GitHub Streak](https://streak-stats.demolab.com?user=alv-vitoria&theme=tokyonight)
+
+
+## ![snake gif](https://raw.githubusercontent.com/alv-vitoria/alv-vitoria/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Como me encontrar
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:Alvares26Sa@proton.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/alv-vitoria)   [![E-mail](https://img.shields.io/badge/-Email-2d1b4e?style=for-the-badge&logo=microsoft-outlook&logoColor=c084fc)](mailto:Alvares26Sa@proton.me)   
+
+
 
 
 ## 🚀 O que estou fazendo
