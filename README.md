@@ -63,7 +63,7 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 ## ![GitHub Streak](https://streak-stats.demolab.com?user=alv-vitoria&theme=tokyonight)
 
 
-## ![snake gif](https://raw.githubusercontent.com/alv-vitoria/alv-vitoria/output/github-contribution-grid-snake.svg)
+## ![snake gif](https://raw.githubusercontent.com/alv-vitoria/alv-vitoria/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 📫 Como me encontrar
