@@ -87,8 +87,4 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 
 ### 🤝 Colaboração
 - Aberta a projetos de análise de dados, melhorias de processos e automações com impacto real
-
-
-### ✨ Extras
-- Pronomes: ela/dela  
 - Curto desafios complexos e resolver problemas com código
