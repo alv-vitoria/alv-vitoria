@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 </p>
 
 
-## Olá, Bem vindo(a)!
+## Vitória Alvares dos Santos
 
-Me chamo Vitória Alvares dos Santos e sou uma entusiasta de tecnologia em constante evolução. Tenho interesse especial por **análise de dados**, **Python** e soluções que tornam processos mais inteligentes e eficientes.
-  
+Entusiasta de tecnologia com foco em análise de dados e Python. Desenvolvo soluções que buscam simplificar processos e gerar insights a partir de dados.
+
 ## 🎯 Objetivo profissional
 Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Analytics**, **Business Analyst**, construindo projetos reais, automações e ferramentas inteligentes.
   
