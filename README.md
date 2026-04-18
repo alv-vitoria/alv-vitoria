@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 
 Entusiasta de tecnologia com foco em análise de dados e Python. Desenvolvo soluções que buscam simplificar processos e gerar insights a partir de dados.
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Analytics**, **Business Analyst**, construindo projetos reais, automações e ferramentas inteligentes.
   
-## 📚 Estudando no momento
+## Estudando no momento
 - Python (DIO / Santander / Microsoft / AWS Bootcamps)
 - ETL, SQL, Data Analytics e Modelagem de Dados
 - Gestão Comercial (Graduação)
@@ -24,15 +24,15 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 - Power BI and Dashboards
 
 
-## ⚙️ Tecnologias
-**Domino / Tenho prática com:**
+## Tecnologias
+**Tenho conhecimento em:**
 - Python
 - Git e GitHub
 - Pandas
 - ETL, SQL, Data Analytics
 
 
-## 🚀 Projetos em Destaque
+## Projetos
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|--------------|------|
@@ -43,8 +43,7 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 | **API de Produtos** | API REST com rotas GET/POST/PUT/DELETE | Python | ![Em breve](https://img.shields.io/badge/Em%20breve-808080?style=for-the-badge)
 
 
-###  Tecnologias & Ferramentas
-
+###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -60,7 +59,7 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 
 </div>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -74,16 +73,14 @@ Atuar como **Analista de Dados**, **Desenvolvedor Júnior**, **Supply Chain Anal
 
 </div>
 
-## 📫 Como me encontrar
+## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/alv-vitoria)   [![E-mail](https://img.shields.io/badge/-Email-2d1b4e?style=for-the-badge&logo=microsoft-outlook&logoColor=c084fc)](mailto:Alvares26Sa@proton.me)   
 
 
-
-
-### 🚀 O que estou fazendo
+### Projetos atuais
 - Projetos práticos de dados com foco em ETL, automações em Python e geração de insights
 
 
-### 🤝 Colaboração
+### Colaboração
 - Aberta a projetos de análise de dados, melhorias de processos e automações com impacto real
 - Curto desafios complexos e resolver problemas com código
