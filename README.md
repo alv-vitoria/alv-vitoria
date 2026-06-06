@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_+200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=B4A0E5)](https://github.com/alv-vitoria)
 [![DIO Campus Expert](https://img.shields.io/badge/DIO-Campus_Expert-B4A0E5?style=for-the-badge&logo=databricks&logoColor=0d1117)](https://www.dio.me/articles/dados-como-vantagem-competitiva-a-intersecao-entre-ti-e-comercial-25a2ec7a7dc0)
 [![Email](https://img.shields.io/badge/ProtonMail-7B5EA7?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Alvares26Sa@proton.me)
