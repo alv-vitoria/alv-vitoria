@@ -113,7 +113,7 @@
 <br>
 <br>
 
-<div align="center">
+<div align="center">    
   
 ```
 ✦  games  ·  dados  ·  automação  ·  IA  ·  aprendendo sempre  ✦
