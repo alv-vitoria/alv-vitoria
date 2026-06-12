@@ -105,7 +105,7 @@
 | **Projeto ETL - Santander/DIO** | Pipeline completo de ETL | Python · Pandas · OpenPyXL · Matplotlib | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/meu-projeto-etl-dio-santander) |
 | **Previsão de Estoque com SageMaker** | Previsão inteligente de estoque | AWS · SageMaker Canvas | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/lab-aws-sagemaker-canvas-estoque) |
 | **Artigos** | Dados como Vantagem Competitiva: TI e Comercial | Comunicação | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/Articles/blob/main/dados-vantagem-competitiva.md) |
-| **CRUD de Tarefas** | CRUD simples com Python | Python | ![em breve](https://img.shields.io/badge/em%20breve-0d0d0d?style=flat-square&logoColor=white) |
+| **CRUD de Tarefas** | CRUD simples com Python | Python | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/crud-tarefas) | 
 | **API de Produtos** | API REST com rotas GET/POST/PUT/DELETE | Python | ![em breve](https://img.shields.io/badge/em%20breve-0d0d0d?style=flat-square&logoColor=white) |
 
 </div>
