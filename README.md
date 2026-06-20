@@ -106,6 +106,7 @@
 | **Previsão de Estoque com SageMaker** | Previsão inteligente de estoque | AWS · SageMaker Canvas | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/lab-aws-sagemaker-canvas-estoque) |
 | **Artigos** | Dados como Vantagem Competitiva: TI e Comercial | Comunicação | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/Articles/blob/main/dados-vantagem-competitiva.md) |
 | **CRUD de Tarefas** | CRUD simples com Python | Python | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/crud-tarefas) | 
+| **Bootcamps e Desafios** | Desafios de Código e outros conhecimentos práticos | Practice | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/dio-creative-challenges) | 
 | **API de Produtos** | API REST com rotas GET/POST/PUT/DELETE | Python | ![em breve](https://img.shields.io/badge/em%20breve-0d0d0d?style=flat-square&logoColor=white) |
 
 </div>
