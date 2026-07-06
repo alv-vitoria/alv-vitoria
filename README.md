@@ -2,7 +2,7 @@
 
 # Vitória Alvares
 
-**`Commercial Management · Games · IA · Data`**  
+**`Commercial Management · Games · IA · Data`**   
 
 <br>
 
