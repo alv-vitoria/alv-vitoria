@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vitória Alvares
+# Vitória Alvares 
 
 **`Commercial Management · Games · IA · Data`**   
 
