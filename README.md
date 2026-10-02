@@ -107,6 +107,7 @@
 | **Artigos** | aprendizados e reflexões sobre tecnologia | Comunicação | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/Articles) |
 | **CRUD de Tarefas** | CRUD simples com Python | Python | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/crud-tarefas) | 
 | **Bootcamps e Desafios** | Desafios de Código e outros conhecimentos práticos | Practice | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/dio-creative-challenges) | 
+| **Funil comercial da Olist** | Análise de Funil | Jupyter · Pandas | [![ver](https://img.shields.io/badge/ver-7B5EA7?style=flat-square&logo=github&logoColor=white)](https://github.com/alv-vitoria/funil-olist) |
 | **API de Produtos** | API REST com rotas GET/POST/PUT/DELETE | Python | ![em breve](https://img.shields.io/badge/em%20breve-0d0d0d?style=flat-square&logoColor=white) |
 
 </div>
